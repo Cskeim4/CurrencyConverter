@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
     Button btnConvertDollars;
     Button btnConvertEuros;
 
-
+    //Comment
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
